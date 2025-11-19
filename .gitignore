@@ -139,3 +139,7 @@ Thumbs.db
 # Project specific
 input/
 output/
+
+# 项目特定说明：
+# input/ - 存放输入的音频文件
+# output/ - 存放生成的字幕文件
