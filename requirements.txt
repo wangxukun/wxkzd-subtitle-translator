@@ -1,0 +1,4 @@
+customtkinter
+whisperx
+torch
+pysrt
